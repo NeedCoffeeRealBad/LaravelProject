@@ -100,7 +100,7 @@
 <body>
 <div>
     <ul id = "navmenu"> 
-        <li> <a href="#"> random 1 </li> 
+        <li> <a href="/dashboard"> Dashboard </li> 
 
         <li> <a href="#"> dropdown 2 </a> <span class = "darrow">&#9660 </span>
             <ul class = "sub1">
